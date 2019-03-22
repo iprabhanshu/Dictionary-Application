@@ -1,0 +1,3 @@
+I have added 3 sample data in Binary search tree and in hash table so it will load as frame is opened.
+Data is case sensitive, so please search accordingly.
+Rest you can test the functionality by adding, searching, deleting, iterator and etc. 
